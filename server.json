@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 2000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Churrasco",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 150,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Supermercado",
+      "category": "Compras",
+      "price": 500,
+      "type": "income",
+      "createdAt": "2024-01-02T01:57:58.267Z",
+      "id": 3
+    },
+    {
+      "description": "Desenvolvimento web React",
+      "category": "Livro",
+      "price": 89,
+      "type": "income",
+      "createdAt": "2024-01-02T02:33:22.665Z",
+      "id": 4
+    }
+  ]
+}
